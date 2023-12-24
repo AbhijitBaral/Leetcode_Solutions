@@ -1,4 +1,3 @@
-```C
 void moveZeroes(int* nums, int numsSize) {
     int j;
     for(int i=0;i<=numsSize-1;i++)
@@ -10,4 +9,4 @@ void moveZeroes(int* nums, int numsSize) {
             nums[j]=0;
         }
 }
-```
+
